@@ -1,2 +1,1 @@
-# Supply-MIssion
-Project 22
+# SupplyMission
